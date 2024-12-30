@@ -55,7 +55,8 @@ class WeatherModel {
       return Colors.blueGrey;
     } else if (cobdition == 'Patchy rain possible' ||
         cobdition == 'Heavy Rain' ||
-        cobdition == 'Showers	') {
+        cobdition == 'Showers	' ||
+        cobdition == 'Patchy rain nearby') {
       return Colors.blue;
     } else if (cobdition == 'Thundery outbreaks possible' ||
         cobdition == 'Moderate or heavy snow with thunder' ||
