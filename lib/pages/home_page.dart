@@ -77,7 +77,7 @@ class MyHomePage extends StatelessWidget {
                     ),
                   );
                 } else {
-                  return const InitialBady();
+                  return const InitialBody();
                 }
               },
             ));

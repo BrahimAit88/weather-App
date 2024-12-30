@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class InitialBady extends StatelessWidget {
-  const InitialBady({
+class InitialBody extends StatelessWidget {
+  const InitialBody({
     super.key,
   });
 
